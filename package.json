@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://MartaSyvyk.github.io/goit-js-hw-08-new.git"
+    "url": "git+https://github.com/MartaSyvyk/goit-js-hw-08-new.git"
   },
   "keywords": [],
   "author": "Marta Syvyk",
   "license": "ISC",
   "bugs": {
-    "url": "https://MartaSyvyk.github.io/goit-js-hw-08-new/issues"
+    "url": "https://github.com/MartaSyvyk/goit-js-hw-08-new/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
